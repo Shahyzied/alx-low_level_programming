@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 /**
 *main - Entery point
 *Description: 'alphabet'
@@ -13,6 +13,6 @@ while (n <= 122)
 	putchar(n);
 	n++;
 }
-putchar('\n');
-return (0);
+	putchar('\n');
+	return (0);
 }
